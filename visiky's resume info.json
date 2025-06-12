@@ -1,0 +1,115 @@
+{
+    "titleNameMap": {
+        "educationList": "教育背景",
+        "workExpList": "工作经历",
+        "projectList": "项目经验",
+        "skillList": "个人技能",
+        "awardList": "更多信息",
+        "workList": "个人作品",
+        "aboutme": "个人评价"
+    },
+    "avatar": {
+        "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+        "hidden": false
+    },
+    "profile": {
+        "name": "孟海霞",
+        "email": "2452659096@qq.com",
+        "mobile": "13658683292",
+        "github": "",
+        "zhihu": "",
+        "workExpYear": "",
+        "positionTitle": "置业顾问"
+    },
+    "educationList": [
+        {
+            "edu_time": [
+                "2014.09",
+                "2017.06"
+            ],
+            "school": "青岛职业技术学院",
+            "major": "市场营销",
+            "academic_degree": "专科",
+            "dataIndex": 0
+        }
+    ],
+    "awardList": [
+        {
+            "award_info": "2、3、4 月门店 业绩第一名",
+            "award_time": "2017",
+            "dataIndex": 0
+        },
+        {
+            "award_info": "鲁班国汇城销售 亚军，下半年销售亚军",
+            "award_time": "2020",
+            "dataIndex": 1
+        },
+        {
+            "award_info": "11月度销冠",
+            "award_time": "2021",
+            "dataIndex": 2
+        },
+        {
+            "award_info": "建邦陇锦墅12月度销冠",
+            "award_time": "2023",
+            "dataIndex": 3
+        }
+    ],
+    "workExpList": [
+        {
+            "company_name": "青岛链家",
+            "department_name": "房产经纪人",
+            "work_time": [
+                "2016.10",
+                "2019.05"
+            ],
+            "work_desc": "1. 按照公司标准进行客户接待服务，匹配合适房源。 \n2. 成交后及时跟进客户按揭资料提交情况以及后续问题。 \n3. 定期学习新入市项目等。 \n\n工作业绩：\n任职期间销售业绩 8900 万，连续 3 个月蝉联门店业绩第一，具有新房、二手房\n从业经验，以及帮助客户办理购房后续流程",
+            "dataIndex": 0
+        },
+        {
+            "company_name": "鲁班国汇城·儒苑",
+            "department_name": "置业顾问",
+            "work_time": [
+                "2019.05",
+                "2020.12"
+            ],
+            "work_desc": "1. 负责案场客户来电来访接待工作，带客户看房、下定、签合同、为客户安排\n贷款等事宜；完成公司安排的销售目标。\n2. 定时 call 客，开拓新客户，并维护好老客户的关系，争取让老客户再转介绍\n新客户购房。\n3. 负责线上维护，按时发动态获客，及时跟客户获得联系促使客户到访。 \n\n工作业绩：\n任职期间销售业绩 1.3 亿，置业顾问 16 人，销售业绩累计排名第三，曾连续多\n月蝉联单月销售冠军，并获得 2020 年下半年度销亚，2020 全年度销亚。",
+            "dataIndex": 1
+        },
+        {
+            "company_name": " 建邦·垅锦墅",
+            "department_name": "置业顾问",
+            "work_time": [
+                "2022.7",
+                "2024.4"
+            ],
+            "work_desc": "1.负责前期接待、楼盘讲解等工作，向客户推销产品；\n2.做好销售信息（客户、市场、产品信息）的收集反馈，及时反映交流；\n3.引导客户办理认购、现场签约等各项手续；\n4.跟踪客户签约及手续办理情况，配合客户办理相关手续。 \n\n工作业绩:\n任职期间销售业绩 1.6 亿，置业顾问 6 名，销售业绩排名前三",
+            "dataIndex": 2
+        },
+        {
+            "work_time": [
+                "2024.9",
+                "2025.5"
+            ],
+            "company_name": "雨山商业管理有限公司",
+            "department_name": "招商运营",
+            "work_desc": "1 参与新商场招商 让商户入驻 参与商场组织运营活动"
+        }
+    ],
+    "skillList": [
+
+    ],
+    "projectList": [
+
+    ],
+    "workList": [
+
+    ],
+    "aboutme": {
+        "aboutme_desc": "本人性格乐观开朗，抗压能力强，不怕吃苦，接受新事物强，融入新环境快，具有销\n售及文职行政类的工作经验。能够的和同事相处和睦，工作上合作默契从而共赢 从\n实习毕业到现在基本上都是从事房产销售的工作。"
+    },
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
+    }
+}
